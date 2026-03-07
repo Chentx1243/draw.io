@@ -23,16 +23,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4hUUsuzC5Rcinb9m9mP0-6" parent="1" style="whiteSpace=wrap;html=1;" value="携带fileId进行对话" vertex="1">
-          <mxGeometry height="60" width="120" x="-232" y="158" as="geometry" />
+          <mxGeometry height="60" width="120" x="-349" y="161" as="geometry" />
         </mxCell>
         <mxCell id="4hUUsuzC5Rcinb9m9mP0-10" edge="1" parent="1" source="4hUUsuzC5Rcinb9m9mP0-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="4hUUsuzC5Rcinb9m9mP0-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4hUUsuzC5Rcinb9m9mP0-7" parent="1" style="whiteSpace=wrap;html=1;" value="后端获取文档解析结果" vertex="1">
-          <mxGeometry height="60" width="120" x="8" y="158" as="geometry" />
+          <mxGeometry height="60" width="120" x="-109" y="161" as="geometry" />
         </mxCell>
         <mxCell id="4hUUsuzC5Rcinb9m9mP0-9" parent="1" style="whiteSpace=wrap;html=1;" value="拼接提示词&lt;div&gt;完成问答&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="248" y="158" as="geometry" />
+          <mxGeometry height="60" width="120" x="131" y="161" as="geometry" />
+        </mxCell>
+        <mxCell id="4hUUsuzC5Rcinb9m9mP0-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="文件解析接口" vertex="1">
+          <mxGeometry height="30" width="121" x="-352.5" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="4hUUsuzC5Rcinb9m9mP0-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="现有对话接口改造" vertex="1">
+          <mxGeometry height="30" width="150" x="-367" y="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
