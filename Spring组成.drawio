@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="Dy1CR2tiVfRL2gp9IBcS">
-    <mxGraphModel dx="833" dy="995" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,22 @@
           <mxGeometry height="244.6" width="348.81" x="58" y="-39" as="geometry" />
         </mxCell>
         <mxCell id="0Oa3qSspcQhjRGbD07wo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="184" width="285" x="80" y="303" as="geometry" />
+          <mxGeometry height="125" width="163" x="111" y="303" as="geometry" />
         </mxCell>
         <mxCell id="0Oa3qSspcQhjRGbD07wo-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Data Access/Integration&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="158" x="143.5" y="314" as="geometry" />
+          <mxGeometry height="30" width="158" x="111" y="308" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oa3qSspcQhjRGbD07wo-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;JDBC&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="66" x="123" y="344" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oa3qSspcQhjRGbD07wo-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;ORM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="66" x="194" y="344" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oa3qSspcQhjRGbD07wo-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;OXM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="66" x="124" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oa3qSspcQhjRGbD07wo-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;JMS&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="66" x="195" y="379" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
