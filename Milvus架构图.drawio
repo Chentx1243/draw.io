@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="3">
   <diagram name="第 1 页" id="0PH9O7n0Kl8h01PZDRmP">
-    <mxGraphModel dx="184" dy="199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="308" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry height="60" width="220" x="390" y="170" as="geometry" />
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-15" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="240" width="100" x="230" y="80" as="geometry" />
+          <mxGeometry height="240" width="100" x="210" y="80" as="geometry" />
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-3" parent="osWdQo-al2B8v2FnWmVt-15" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="240" width="100" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry height="40" width="80" x="10" y="190" as="geometry" />
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Query Nodes&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="100" x="390" y="240" as="geometry" />
+          <mxGeometry height="90" width="100" x="390" y="250" as="geometry" />
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Data Nodes&lt;/font&gt;" vertex="1">
-          <mxGeometry height="90" width="110" x="500" y="240" as="geometry" />
+          <mxGeometry height="90" width="110" x="500" y="250" as="geometry" />
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="70" width="100" x="670" y="170" as="geometry" />
@@ -54,7 +54,7 @@
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-26" connectable="0" parent="osWdQo-al2B8v2FnWmVt-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;DCL/DDL&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3272" y="2" as="geometry">
-            <mxPoint x="11" y="-12" as="offset" />
+            <mxPoint x="5" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-28" edge="1" parent="1" source="osWdQo-al2B8v2FnWmVt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="osWdQo-al2B8v2FnWmVt-14">
@@ -62,7 +62,28 @@
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-30" connectable="0" parent="osWdQo-al2B8v2FnWmVt-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;DML&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1951" as="geometry">
-            <mxPoint x="6" y="-10" as="offset" />
+            <mxPoint x="-12" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-31" edge="1" parent="1" source="osWdQo-al2B8v2FnWmVt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="osWdQo-al2B8v2FnWmVt-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="260" />
+              <mxPoint x="370" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-33" edge="1" parent="1" source="osWdQo-al2B8v2FnWmVt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="osWdQo-al2B8v2FnWmVt-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="260" />
+              <mxPoint x="370" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-34" connectable="0" parent="osWdQo-al2B8v2FnWmVt-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;DQL&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.672" y="1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
