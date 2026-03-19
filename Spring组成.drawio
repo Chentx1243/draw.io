@@ -8,7 +8,7 @@
           <mxGeometry height="244.6" width="348.81" x="58" y="-39" as="geometry" />
         </mxCell>
         <mxCell id="0Oa3qSspcQhjRGbD07wo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="125" width="163" x="111" y="303" as="geometry" />
+          <mxGeometry height="153" width="163" x="111" y="303" as="geometry" />
         </mxCell>
         <mxCell id="0Oa3qSspcQhjRGbD07wo-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Data Access/Integration&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="158" x="111" y="308" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="0Oa3qSspcQhjRGbD07wo-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;JMS&lt;/font&gt;" vertex="1">
           <mxGeometry height="29" width="66" x="195" y="379" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oa3qSspcQhjRGbD07wo-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Transactions&lt;/font&gt;" vertex="1">
+          <mxGeometry height="29" width="138" x="123" y="414" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
