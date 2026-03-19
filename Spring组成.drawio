@@ -65,7 +65,10 @@
           <mxGeometry height="70" width="56" x="583" y="437" as="geometry" />
         </mxCell>
         <mxCell id="0Oa3qSspcQhjRGbD07wo-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Core&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Contalner&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="323" width="56" x="652" y="186" as="geometry" />
+          <mxGeometry height="323" width="66" x="652" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="0Oa3qSspcQhjRGbD07wo-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;Test&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="323" width="66" x="734" y="184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
