@@ -40,6 +40,12 @@
         <mxCell id="osWdQo-al2B8v2FnWmVt-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Data Nodes&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="110" x="500" y="240" as="geometry" />
         </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="100" x="670" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Durable&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Storage&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="670" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
