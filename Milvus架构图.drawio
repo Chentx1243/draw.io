@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="3">
   <diagram name="第 1 页" id="0PH9O7n0Kl8h01PZDRmP">
-    <mxGraphModel dx="308" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="551" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,14 @@
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Client SDK&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="90" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-35" edge="1" parent="1" source="osWdQo-al2B8v2FnWmVt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="osWdQo-al2B8v2FnWmVt-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-36" connectable="0" parent="osWdQo-al2B8v2FnWmVt-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Management&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1567" y="3" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Coordinator&lt;/font&gt;" vertex="1">
           <mxGeometry height="35" width="220" x="390" y="91" as="geometry" />
@@ -42,6 +50,14 @@
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Data Nodes&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="110" x="500" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-37" edge="1" parent="1" source="osWdQo-al2B8v2FnWmVt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="osWdQo-al2B8v2FnWmVt-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="370" />
+              <mxPoint x="440" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="osWdQo-al2B8v2FnWmVt-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="70" width="100" x="670" y="170" as="geometry" />
@@ -85,6 +101,12 @@
           <mxGeometry relative="1" x="-0.672" y="1" as="geometry">
             <mxPoint x="2" y="-9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;Segment Loading&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="530" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="osWdQo-al2B8v2FnWmVt-40" edge="1" parent="1" source="osWdQo-al2B8v2FnWmVt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="osWdQo-al2B8v2FnWmVt-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
