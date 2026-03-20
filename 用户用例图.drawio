@@ -568,7 +568,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_jEjYC-91h6bvZqLbG6t-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;注册&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="_jEjYC-91h6bvZqLbG6t-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;登录注册&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="50" x="239" y="740" as="geometry" />
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-82" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;输入账号&lt;/span&gt;&lt;/font&gt;" vertex="1">
