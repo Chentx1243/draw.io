@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HyIqAFJyxlqVaSvblh4N" name="第 2 页">
-    <mxGraphModel dx="776" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="381" dy="266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -583,6 +583,11 @@
         <mxCell id="_jEjYC-91h6bvZqLbG6t-94" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="_jEjYC-91h6bvZqLbG6t-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-24" connectable="0" parent="_jEjYC-91h6bvZqLbG6t-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-35;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0831" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-93" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增供应商/修改供应商/删除供应商&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="167" x="480" y="912" as="geometry" />
         </mxCell>
@@ -591,6 +596,11 @@
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-98" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.793;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;" target="_jEjYC-91h6bvZqLbG6t-95">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-23" connectable="0" parent="_jEjYC-91h6bvZqLbG6t-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="0.0492" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-96" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增模型/修改模型/删除模型&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="136" x="431.5" y="1063" as="geometry" />
@@ -612,6 +622,11 @@
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-103" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-92">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-25" connectable="0" parent="_jEjYC-91h6bvZqLbG6t-103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-15;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0095" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;配置供应商分组秘钥&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="167" x="431.5" y="1001" as="geometry" />
