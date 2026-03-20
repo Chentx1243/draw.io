@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="qPSGo8InwnPX6_m7Ju8R">
-    <mxGraphModel dx="804" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,92 +35,9 @@
         <mxCell id="LELoIHap4pSsm4wS_ubh-5" parent="LELoIHap4pSsm4wS_ubh-17" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10px;&quot;&gt;输入密码&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="50" x="144" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-36" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="140" width="340" x="220" y="180" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-20" edge="1" parent="LELoIHap4pSsm4wS_ubh-36" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-26" connectable="0" parent="LELoIHap4pSsm4wS_ubh-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.1747" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-21" edge="1" parent="LELoIHap4pSsm4wS_ubh-36" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-25" connectable="0" parent="LELoIHap4pSsm4wS_ubh-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.1164" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-22" edge="1" parent="LELoIHap4pSsm4wS_ubh-36" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.939;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="LELoIHap4pSsm4wS_ubh-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-27" connectable="0" parent="LELoIHap4pSsm4wS_ubh-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0164" y="-2" as="geometry">
-            <mxPoint x="11" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-24" edge="1" parent="LELoIHap4pSsm4wS_ubh-36" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-28" connectable="0" parent="LELoIHap4pSsm4wS_ubh-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=40;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0249" y="-1" as="geometry">
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-11" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;模型问答&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-33" edge="1" parent="LELoIHap4pSsm4wS_ubh-36" source="LELoIHap4pSsm4wS_ubh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LELoIHap4pSsm4wS_ubh-32" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-34" connectable="0" parent="LELoIHap4pSsm4wS_ubh-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.2548" y="-1" as="geometry">
-            <mxPoint x="6" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-12" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;模型选择&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="143" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-30" edge="1" parent="LELoIHap4pSsm4wS_ubh-36" source="LELoIHap4pSsm4wS_ubh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LELoIHap4pSsm4wS_ubh-29" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-31" connectable="0" parent="LELoIHap4pSsm4wS_ubh-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.1603" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-13" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;发起对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="143" y="35" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-14" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;联网搜索&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="144" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-18" edge="1" parent="LELoIHap4pSsm4wS_ubh-36" source="LELoIHap4pSsm4wS_ubh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LELoIHap4pSsm4wS_ubh-16" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-19" connectable="0" parent="LELoIHap4pSsm4wS_ubh-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.2574" as="geometry">
-            <mxPoint x="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-15" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;文件问答&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="144" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-16" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;上传文件&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="290" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-29" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;记录对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="290" y="35" as="geometry" />
-        </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-32" parent="LELoIHap4pSsm4wS_ubh-36" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;校验权限&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="290" as="geometry" />
-        </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-43" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="509.9999999999957" y="365" as="targetPoint" />
+            <mxPoint x="508.9999999999957" y="353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-45" connectable="0" parent="LELoIHap4pSsm4wS_ubh-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
@@ -129,13 +46,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-37" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;知识库&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="364" y="350" as="geometry" />
+          <mxGeometry height="30" width="50" x="363" y="338" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;知识管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="364" y="410" as="geometry" />
+          <mxGeometry height="30" width="50" x="363" y="398" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;发起问答&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="364" y="465" as="geometry" />
+          <mxGeometry height="30" width="50" x="363" y="453" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-59" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-37">
           <mxGeometry relative="1" as="geometry" />
@@ -162,18 +79,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;知识库&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;问答&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="220" y="350" as="geometry" />
+          <mxGeometry height="30" width="50" x="220" y="290" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增、修改、删除、共享知识库&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="90" x="500" y="340" as="geometry" />
+          <mxGeometry height="50" width="90" x="499" y="328" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-51" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增、修改、删除、共享知识&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="90" x="500" y="400" as="geometry" />
+          <mxGeometry height="50" width="90" x="499" y="388" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-52" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="430" as="sourcePoint" />
-            <mxPoint x="500" y="430" as="targetPoint" />
+            <mxPoint x="459" y="418" as="sourcePoint" />
+            <mxPoint x="499" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-53" connectable="0" parent="LELoIHap4pSsm4wS_ubh-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
@@ -182,12 +99,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;选择知识库或知识&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="60" x="510" y="460" as="geometry" />
+          <mxGeometry height="40" width="60" x="509" y="448" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-56" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-54" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="490" as="sourcePoint" />
-            <mxPoint x="556" y="490" as="targetPoint" />
+            <mxPoint x="459" y="478" as="sourcePoint" />
+            <mxPoint x="555" y="478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-57" connectable="0" parent="LELoIHap4pSsm4wS_ubh-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
@@ -195,11 +112,11 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LELoIHap4pSsm4wS_ubh-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;知识库&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;问答&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="220" y="540" as="geometry" />
+        <mxCell id="LELoIHap4pSsm4wS_ubh-67" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;对话管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="220" y="368" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;删除&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;对话记录&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="365" y="540" as="geometry" />
+          <mxGeometry height="30" width="50" x="360" y="500" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-69" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="LELoIHap4pSsm4wS_ubh-68">
           <mxGeometry relative="1" as="geometry">
@@ -211,6 +128,86 @@
           <mxGeometry relative="1" x="-0.1416" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-20" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-26" connectable="0" parent="LELoIHap4pSsm4wS_ubh-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1747" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-21" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-25" connectable="0" parent="LELoIHap4pSsm4wS_ubh-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1164" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-22" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.939;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="LELoIHap4pSsm4wS_ubh-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-27" connectable="0" parent="LELoIHap4pSsm4wS_ubh-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0164" y="-2" as="geometry">
+            <mxPoint x="11" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-24" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-28" connectable="0" parent="LELoIHap4pSsm4wS_ubh-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=40;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0249" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;模型问答&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="220" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-33" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LELoIHap4pSsm4wS_ubh-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-34" connectable="0" parent="LELoIHap4pSsm4wS_ubh-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2548" y="-1" as="geometry">
+            <mxPoint x="6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;模型选择&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="363" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-30" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LELoIHap4pSsm4wS_ubh-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-31" connectable="0" parent="LELoIHap4pSsm4wS_ubh-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1603" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;发起对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="363" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;联网搜索&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="364" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-18" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LELoIHap4pSsm4wS_ubh-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-19" connectable="0" parent="LELoIHap4pSsm4wS_ubh-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2574" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;文件问答&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="364" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;上传文件&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="510" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;记录对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="510" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="LELoIHap4pSsm4wS_ubh-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;校验权限&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="510" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
