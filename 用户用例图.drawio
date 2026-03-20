@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HyIqAFJyxlqVaSvblh4N" name="第 2 页">
-    <mxGraphModel dx="536" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="726" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -546,6 +546,21 @@
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-72" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10px;&quot;&gt;输入密码&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="50" x="434" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-41" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_jEjYC-91h6bvZqLbG6t-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-42" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_jEjYC-91h6bvZqLbG6t-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-43" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_jEjYC-91h6bvZqLbG6t-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-44" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="_jEjYC-91h6bvZqLbG6t-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-45" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="h2TqhJIPCSocjJlLkOAF-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-73" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;管理员&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="60" y="1100" as="geometry" />
