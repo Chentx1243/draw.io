@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HyIqAFJyxlqVaSvblh4N" name="第 2 页">
-    <mxGraphModel dx="500" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="608" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,11 +611,21 @@
         <mxCell id="h2TqhJIPCSocjJlLkOAF-1" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-31" connectable="0" parent="h2TqhJIPCSocjJlLkOAF-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0154" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-100" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增用户/修改用户/删除用户&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="136" x="430" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="h2TqhJIPCSocjJlLkOAF-2" edge="1" parent="1" source="_jEjYC-91h6bvZqLbG6t-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-99">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-32" connectable="0" parent="h2TqhJIPCSocjJlLkOAF-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=20;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.213" y="1" as="geometry">
+            <mxPoint x="7" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_jEjYC-91h6bvZqLbG6t-101" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;分组管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="83" x="431.5" y="1254" as="geometry" />
@@ -676,17 +686,32 @@
         <mxCell id="h2TqhJIPCSocjJlLkOAF-19" edge="1" parent="1" source="h2TqhJIPCSocjJlLkOAF-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-35" connectable="0" parent="h2TqhJIPCSocjJlLkOAF-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=10;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2345" y="1" as="geometry">
+            <mxPoint x="8" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h2TqhJIPCSocjJlLkOAF-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增/修改/删除用户分组&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="120" x="598.5" y="1284" as="geometry" />
         </mxCell>
         <mxCell id="h2TqhJIPCSocjJlLkOAF-18" edge="1" parent="1" source="h2TqhJIPCSocjJlLkOAF-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-34" connectable="0" parent="h2TqhJIPCSocjJlLkOAF-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-5;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0397" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h2TqhJIPCSocjJlLkOAF-21" edge="1" parent="1" source="h2TqhJIPCSocjJlLkOAF-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-33" connectable="0" parent="h2TqhJIPCSocjJlLkOAF-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=15;" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0651" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h2TqhJIPCSocjJlLkOAF-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;配置用户的分组&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="120" x="598.5" y="1224" as="geometry" />
+          <mxGeometry height="36" width="120" x="610" y="1224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
