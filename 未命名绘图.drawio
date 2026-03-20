@@ -82,10 +82,10 @@
           <mxGeometry height="30" width="50" x="220" y="290" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增、修改、删除、共享知识库&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="90" x="499" y="328" as="geometry" />
+          <mxGeometry height="50" width="90" x="583" y="328" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-51" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增、修改、删除、共享知识&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="90" x="499" y="388" as="geometry" />
+          <mxGeometry height="50" width="90" x="583" y="388" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-52" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-51">
           <mxGeometry relative="1" as="geometry">
@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;选择知识库或知识&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="60" x="509" y="448" as="geometry" />
+          <mxGeometry height="40" width="60" x="593" y="448" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-56" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-54" value="">
           <mxGeometry relative="1" as="geometry">
@@ -201,13 +201,13 @@
           <mxGeometry height="30" width="50" x="364" y="290" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;上传文件&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="510" y="290" as="geometry" />
+          <mxGeometry height="30" width="50" x="594" y="290" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;记录对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="510" y="215" as="geometry" />
+          <mxGeometry height="30" width="50" x="594" y="215" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;校验权限&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="510" y="180" as="geometry" />
+          <mxGeometry height="30" width="50" x="594" y="180" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-82" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LELoIHap4pSsm4wS_ubh-80">
           <mxGeometry relative="1" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry height="30" width="50" x="360" y="600" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;记录对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="511" y="600" as="geometry" />
+          <mxGeometry height="30" width="50" x="595" y="600" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-78" edge="1" parent="1" source="LELoIHap4pSsm4wS_ubh-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LELoIHap4pSsm4wS_ubh-81" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -254,7 +254,7 @@
           <mxGeometry height="30" width="50" x="360" y="554.5" as="geometry" />
         </mxCell>
         <mxCell id="LELoIHap4pSsm4wS_ubh-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;校验权限&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="507" y="554.5" as="geometry" />
+          <mxGeometry height="30" width="50" x="591" y="554.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
