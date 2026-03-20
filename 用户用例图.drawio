@@ -645,11 +645,17 @@
         <mxCell id="h2TqhJIPCSocjJlLkOAF-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;智能体上架/下架&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="136" x="362" y="1450" as="geometry" />
         </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-19" edge="1" parent="1" source="h2TqhJIPCSocjJlLkOAF-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h2TqhJIPCSocjJlLkOAF-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;新增/修改/删除用户分组&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="36" width="120" x="598.5" y="1284" as="geometry" />
         </mxCell>
+        <mxCell id="h2TqhJIPCSocjJlLkOAF-18" edge="1" parent="1" source="h2TqhJIPCSocjJlLkOAF-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="_jEjYC-91h6bvZqLbG6t-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h2TqhJIPCSocjJlLkOAF-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;配置用户的分组&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="120" x="598" y="1240" as="geometry" />
+          <mxGeometry height="36" width="120" x="598.5" y="1224" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
