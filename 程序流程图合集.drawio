@@ -628,6 +628,9 @@
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;开始&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="800" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-67" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VF1_6dmQpcR0zGbOcfUh-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;文件上传&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="800" y="290" as="geometry" />
         </mxCell>
