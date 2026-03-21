@@ -500,7 +500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C_s0-3RJNrA8b8GVHHTM" name="第 4 页">
-    <mxGraphModel dx="257" dy="179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,6 +667,9 @@
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;文档切片&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="800" y="579" as="geometry" />
         </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-94" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VF1_6dmQpcR0zGbOcfUh-93" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;构造元信息&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="950" y="579" as="geometry" />
         </mxCell>
@@ -686,6 +689,12 @@
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-92" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="N" vertex="1">
           <mxGeometry x="760" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;文本切片&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;向量化&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="950" y="519" as="geometry" />
+        </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;文本切片&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;向量化&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="950" y="446" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
