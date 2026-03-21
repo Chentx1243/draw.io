@@ -500,7 +500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C_s0-3RJNrA8b8GVHHTM" name="第 4 页">
-    <mxGraphModel dx="417" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="257" dy="179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -639,7 +639,7 @@
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-71" connectable="0" parent="VF1_6dmQpcR0zGbOcfUh-70" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="N" vertex="1">
           <mxGeometry relative="1" x="-0.0773" y="2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-73" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VF1_6dmQpcR0zGbOcfUh-87" value="">
@@ -678,8 +678,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-91" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="VF1_6dmQpcR0zGbOcfUh-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-87" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;拥有知识库权限&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="133.76" x="768.12" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-92" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="N" vertex="1">
+          <mxGeometry x="760" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
