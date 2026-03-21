@@ -700,7 +700,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;写入向量库&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="1000" y="449" as="geometry" />
+          <mxGeometry height="30" width="70" x="1000" y="399" as="geometry" />
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-101" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VF1_6dmQpcR0zGbOcfUh-100" value="">
           <mxGeometry relative="1" as="geometry" />
