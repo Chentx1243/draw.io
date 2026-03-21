@@ -16,11 +16,14 @@
         <mxCell id="tp9TpSqhm4hKkYYOkKhE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;注册页面&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="200" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="tp9TpSqhm4hKkYYOkKhE-7" edge="1" parent="1" source="tp9TpSqhm4hKkYYOkKhE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tp9TpSqhm4hKkYYOkKhE-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tp9TpSqhm4hKkYYOkKhE-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;输入&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;账号密码&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="195" y="290" as="geometry" />
         </mxCell>
         <mxCell id="tp9TpSqhm4hKkYYOkKhE-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;校验合法性&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="85" x="195" y="340" as="geometry" />
+          <mxGeometry height="50" width="85" x="192.5" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
