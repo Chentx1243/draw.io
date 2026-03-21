@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="2">
   <diagram name="第 1 页" id="ci4YbdX367tZtO9cv5-i">
     <mxGraphModel dx="938" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,62 @@
         </mxCell>
         <mxCell id="tp9TpSqhm4hKkYYOkKhE-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;结束&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="170" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Aylo9rQ2wpQ78IT-YiPl" name="第 2 页">
+    <mxGraphModel dx="1125" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-1" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;开始&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="416.88" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-3" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;注册页面&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="416.88" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-5" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;输入&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;账号密码&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="411.88" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-7" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="j9CodpCd-jBbzwhzlFbx-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="536.88" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-8" connectable="0" parent="j9CodpCd-jBbzwhzlFbx-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="&lt;font&gt;Y&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0247" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-9" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-10" connectable="0" parent="j9CodpCd-jBbzwhzlFbx-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体&quot;&gt;N&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1228" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10px;&quot;&gt;账号密码为空&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10px;&quot;&gt;账号已注册&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10px;&quot;&gt;两次输入的密码不一致&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="183.75" x="360" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-12" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;跳转登录页面&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="250" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;结束&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="250" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
