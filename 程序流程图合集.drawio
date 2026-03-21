@@ -671,7 +671,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;构造元信息&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="950" y="579" as="geometry" />
+          <mxGeometry height="30" width="70" x="1000" y="579" as="geometry" />
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-89" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VF1_6dmQpcR0zGbOcfUh-83">
           <mxGeometry relative="1" as="geometry" />
@@ -694,10 +694,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;文本切片&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;向量化&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="950" y="519" as="geometry" />
+          <mxGeometry height="30" width="70" x="1000" y="519" as="geometry" />
+        </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-98" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VF1_6dmQpcR0zGbOcfUh-97" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;写入向量库&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="950" y="446" as="geometry" />
+          <mxGeometry height="30" width="70" x="1000" y="449" as="geometry" />
+        </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-97" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;向量存储成功&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="133.76" x="968.12" y="348" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
