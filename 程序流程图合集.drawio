@@ -654,8 +654,14 @@
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;提取文字&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="800" y="429" as="geometry" />
         </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-78" edge="1" parent="1" source="VF1_6dmQpcR0zGbOcfUh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VF1_6dmQpcR0zGbOcfUh-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VF1_6dmQpcR0zGbOcfUh-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;文档切片&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="800" y="489" as="geometry" />
+        </mxCell>
+        <mxCell id="VF1_6dmQpcR0zGbOcfUh-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;构造元信息&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="920" y="489" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
