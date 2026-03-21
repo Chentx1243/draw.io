@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="24O1itrIy4o5elCV-D0u">
-    <mxGraphModel dx="520" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="450" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,24 @@
         </mxCell>
         <mxCell id="2E3641p5rrUfcj7t7Y3T-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;普通用户系统&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="520" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="2E3641p5rrUfcj7t7Y3T-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;登录&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="20" x="490" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2E3641p5rrUfcj7t7Y3T-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;注册&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="20" x="460" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2E3641p5rrUfcj7t7Y3T-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;模型问答&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="20" x="520" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2E3641p5rrUfcj7t7Y3T-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;知识库管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="20" x="550" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2E3641p5rrUfcj7t7Y3T-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 10.5px;&quot;&gt;智能体问答&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="20" x="580" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2E3641p5rrUfcj7t7Y3T-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 10.5px;&quot;&gt;历史管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="20" x="610" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
