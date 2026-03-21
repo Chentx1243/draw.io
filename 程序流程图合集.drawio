@@ -182,7 +182,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MoUkV0eqHYc-eI4BxPUt" name="第 3 页">
-    <mxGraphModel dx="304" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="523" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,6 +389,18 @@
         </mxCell>
         <mxCell id="7Ehe89FHMDzLuOsvaugy-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#7D7D7D;" value="" vertex="1">
           <mxGeometry height="29.5" width="19" x="576.5" y="330.25" as="geometry" />
+        </mxCell>
+        <mxCell id="7Ehe89FHMDzLuOsvaugy-39" edge="1" parent="1" source="7Ehe89FHMDzLuOsvaugy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.048;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;" target="7Ehe89FHMDzLuOsvaugy-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="484" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Ehe89FHMDzLuOsvaugy-40" connectable="0" parent="7Ehe89FHMDzLuOsvaugy-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="分组信息与秘钥" vertex="1">
+          <mxGeometry relative="1" x="0.3854" y="-1" as="geometry">
+            <mxPoint x="36" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
