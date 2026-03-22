@@ -1496,10 +1496,10 @@
         <mxCell id="09SWjHSrAEcBOAXcQ-Xp-5" edge="1" parent="1" source="09SWjHSrAEcBOAXcQ-Xp-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.008;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="09SWjHSrAEcBOAXcQ-Xp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="09SWjHSrAEcBOAXcQ-Xp-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;title&lt;/span&gt;" vertex="1">
+        <mxCell id="09SWjHSrAEcBOAXcQ-Xp-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;对话标题&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="300" y="504" as="geometry" />
         </mxCell>
-        <mxCell id="09SWjHSrAEcBOAXcQ-Xp-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;共享标记&lt;/span&gt;" vertex="1">
+        <mxCell id="09SWjHSrAEcBOAXcQ-Xp-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;删除标记&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="404" y="504" as="geometry" />
         </mxCell>
         <mxCell id="09SWjHSrAEcBOAXcQ-Xp-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;创建时间&lt;/span&gt;" vertex="1">
@@ -1522,7 +1522,7 @@
             <mxPoint x="420" y="763" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="09SWjHSrAEcBOAXcQ-Xp-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;删除标记&lt;/span&gt;" vertex="1">
+        <mxCell id="09SWjHSrAEcBOAXcQ-Xp-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;参考文件id&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="484" y="548" as="geometry" />
         </mxCell>
         <mxCell id="09SWjHSrAEcBOAXcQ-Xp-16" edge="1" parent="1" source="09SWjHSrAEcBOAXcQ-Xp-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="09SWjHSrAEcBOAXcQ-Xp-1">
