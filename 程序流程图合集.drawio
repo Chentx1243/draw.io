@@ -989,7 +989,7 @@
         <mxCell id="SMVoE8J3HNh_zeKjkr3p-7" edge="1" parent="1" source="SMVoE8J3HNh_zeKjkr3p-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.008;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="SMVoE8J3HNh_zeKjkr3p-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SMVoE8J3HNh_zeKjkr3p-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;昵称&lt;/span&gt;" vertex="1">
+        <mxCell id="SMVoE8J3HNh_zeKjkr3p-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;启用状态&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="280" y="380" as="geometry" />
         </mxCell>
         <mxCell id="SMVoE8J3HNh_zeKjkr3p-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;分组id&lt;/span&gt;" vertex="1">
@@ -1007,7 +1007,7 @@
         <mxCell id="SMVoE8J3HNh_zeKjkr3p-14" edge="1" parent="1" source="SMVoE8J3HNh_zeKjkr3p-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.343;entryY=0.009;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="SMVoE8J3HNh_zeKjkr3p-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SMVoE8J3HNh_zeKjkr3p-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;修改时间&lt;/span&gt;" vertex="1">
+        <mxCell id="SMVoE8J3HNh_zeKjkr3p-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;默认提示词&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="189" y="434" as="geometry" />
         </mxCell>
         <mxCell id="SMVoE8J3HNh_zeKjkr3p-18" edge="1" parent="1" source="SMVoE8J3HNh_zeKjkr3p-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
