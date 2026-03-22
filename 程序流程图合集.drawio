@@ -616,7 +616,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xCgIrj_3v7ljbMkcfgRb" name="第 5 页">
-    <mxGraphModel dx="785" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="405" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -692,7 +692,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iXHn253ZqQnDE0q3e4f3-26" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iXHn253ZqQnDE0q3e4f3-25" value="">
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-26" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="iXHn253ZqQnDE0q3e4f3-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXHn253ZqQnDE0q3e4f3-30" connectable="0" parent="iXHn253ZqQnDE0q3e4f3-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="Y" vertex="1">
@@ -720,22 +720,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iXHn253ZqQnDE0q3e4f3-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;携带dialogueId&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="133.76" x="347" y="537" as="geometry" />
+          <mxGeometry height="50" width="133.76" x="301.88" y="587" as="geometry" />
         </mxCell>
         <mxCell id="5sQa36kx4ivZqVxxp3TJ-5" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5sQa36kx4ivZqVxxp3TJ-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iXHn253ZqQnDE0q3e4f3-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;新建对话id&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="542" y="629" as="geometry" />
+          <mxGeometry height="30" width="70" x="497" y="673" as="geometry" />
         </mxCell>
-        <mxCell id="iXHn253ZqQnDE0q3e4f3-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;获取模型记忆&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="379" y="699" as="geometry" />
+        <mxCell id="5sQa36kx4ivZqVxxp3TJ-9" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5sQa36kx4ivZqVxxp3TJ-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;回归上下文&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="200" y="673" as="geometry" />
         </mxCell>
         <mxCell id="5sQa36kx4ivZqVxxp3TJ-7" edge="1" parent="1" source="5sQa36kx4ivZqVxxp3TJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iXHn253ZqQnDE0q3e4f3-32" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5sQa36kx4ivZqVxxp3TJ-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;对话id&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="374" y="629" as="geometry" />
+          <mxGeometry height="30" width="80" x="329" y="673" as="geometry" />
+        </mxCell>
+        <mxCell id="5sQa36kx4ivZqVxxp3TJ-11" edge="1" parent="1" source="5sQa36kx4ivZqVxxp3TJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5sQa36kx4ivZqVxxp3TJ-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5sQa36kx4ivZqVxxp3TJ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;调用模型&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="200" y="734" as="geometry" />
+        </mxCell>
+        <mxCell id="5sQa36kx4ivZqVxxp3TJ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;结束&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="200" y="804" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
