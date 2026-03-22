@@ -968,14 +968,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="co7UPhcaHC7qLJrdNtt2" name="第 9 页">
-    <mxGraphModel dx="1636" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SMVoE8J3HNh_zeKjkr3p-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;模型供应商&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="100" x="340" y="653" as="geometry" />
         </mxCell>
-        <mxCell id="SMVoE8J3HNh_zeKjkr3p-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;账号&lt;/span&gt;" vertex="1">
+        <mxCell id="SMVoE8J3HNh_zeKjkr3p-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;唯一标识id&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="150" y="543" as="geometry" />
         </mxCell>
         <mxCell id="SMVoE8J3HNh_zeKjkr3p-5" edge="1" parent="1" source="SMVoE8J3HNh_zeKjkr3p-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="SMVoE8J3HNh_zeKjkr3p-1">
@@ -983,7 +983,7 @@
             <mxPoint x="380" y="653" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SMVoE8J3HNh_zeKjkr3p-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;密码&lt;/span&gt;" vertex="1">
+        <mxCell id="SMVoE8J3HNh_zeKjkr3p-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;供应商名称&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="160" y="493" as="geometry" />
         </mxCell>
         <mxCell id="SMVoE8J3HNh_zeKjkr3p-7" edge="1" parent="1" source="SMVoE8J3HNh_zeKjkr3p-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.008;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="SMVoE8J3HNh_zeKjkr3p-1">
