@@ -1205,13 +1205,13 @@
         <mxCell id="GoB_xMeFBVbxOdFlI48S-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;可用状态&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="413" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="GoB_xMeFBVbxOdFlI48S-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;用户自带key&lt;/span&gt;" vertex="1">
+        <mxCell id="GoB_xMeFBVbxOdFlI48S-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;创建时间&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="540" y="673" as="geometry" />
         </mxCell>
         <mxCell id="GoB_xMeFBVbxOdFlI48S-11" edge="1" parent="1" source="GoB_xMeFBVbxOdFlI48S-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="GoB_xMeFBVbxOdFlI48S-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GoB_xMeFBVbxOdFlI48S-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;删除标记&lt;/span&gt;" vertex="1">
+        <mxCell id="GoB_xMeFBVbxOdFlI48S-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;修改时间&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="550" y="723" as="geometry" />
         </mxCell>
         <mxCell id="GoB_xMeFBVbxOdFlI48S-14" edge="1" parent="1" source="GoB_xMeFBVbxOdFlI48S-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.343;entryY=0.009;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="GoB_xMeFBVbxOdFlI48S-1">
