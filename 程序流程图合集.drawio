@@ -931,11 +931,17 @@
         <mxCell id="sr2xo2r17mePjhLgJy6M-34" edge="1" parent="1" source="sr2xo2r17mePjhLgJy6M-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sr2xo2r17mePjhLgJy6M-33" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sr2xo2r17mePjhLgJy6M-38" edge="1" parent="1" source="sr2xo2r17mePjhLgJy6M-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sr2xo2r17mePjhLgJy6M-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sr2xo2r17mePjhLgJy6M-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;拼接提示词&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="370" y="472" as="geometry" />
+          <mxGeometry height="30" width="70" x="370" y="473" as="geometry" />
         </mxCell>
         <mxCell id="sr2xo2r17mePjhLgJy6M-36" edge="1" parent="1" source="sr2xo2r17mePjhLgJy6M-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sr2xo2r17mePjhLgJy6M-35" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sr2xo2r17mePjhLgJy6M-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;大模型问答&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="278.5" y="474" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
