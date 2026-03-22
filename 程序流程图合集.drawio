@@ -695,11 +695,30 @@
         <mxCell id="iXHn253ZqQnDE0q3e4f3-26" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iXHn253ZqQnDE0q3e4f3-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-30" connectable="0" parent="iXHn253ZqQnDE0q3e4f3-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="Y" vertex="1">
+          <mxGeometry relative="1" x="-0.2126" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iXHn253ZqQnDE0q3e4f3-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;具备模型权限&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="133.76" x="168.12" y="520" as="geometry" />
+          <mxGeometry height="50" width="133.76" x="168.12" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-29" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iXHn253ZqQnDE0q3e4f3-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-31" connectable="0" parent="iXHn253ZqQnDE0q3e4f3-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="N" vertex="1">
+          <mxGeometry relative="1" x="-0.239" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iXHn253ZqQnDE0q3e4f3-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;携带dialogueId&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="133.76" x="168.12" y="589" as="geometry" />
+          <mxGeometry height="50" width="133.76" x="347" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;新建对话id&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="378.88" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;获取模型记忆&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="640" y="537" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
