@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="20">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="21">
   <diagram name="第 1 页" id="ci4YbdX367tZtO9cv5-i">
     <mxGraphModel dx="948" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MoUkV0eqHYc-eI4BxPUt" name="第 3 页">
-    <mxGraphModel dx="806" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1744,6 +1744,70 @@
         </mxCell>
         <mxCell id="7ozhR6KVDV9PqP3QC_3I-49" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;修改时间&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="209" y="753" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_JLn86C9EAbBwlrpNfbO" name="第 21 页">
+    <mxGraphModel dx="654" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HqqT7nYPV0v8pgMmQ46--1" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;div style=&quot;background-color:#131314;color:#ebebeb&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:11.3pt;&quot;&gt;&lt;span style=&quot;color:#ed864a;&quot;&gt;create table &lt;/span&gt;t_dialogue&lt;br&gt;(&lt;br&gt;    dialogue_id &lt;span style=&quot;color:#ed864a;&quot;&gt;bigint auto_increment comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;会话&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt; id&#39;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;        &lt;/span&gt;&lt;span style=&quot;color:#ed864a;&quot;&gt;primary key&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;user_id     &lt;span style=&quot;color:#ed864a;&quot;&gt;int                                  not null comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;用户&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt; id&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;model_id    &lt;span style=&quot;color:#ed864a;&quot;&gt;int        default &lt;/span&gt;-&lt;span style=&quot;color:#33ccff;font-weight:bold;&quot;&gt;1                &lt;/span&gt;&lt;span style=&quot;color:#ed864a;&quot;&gt;not null comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;使用的模型&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt; id&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;title       &lt;span style=&quot;color:#ed864a;&quot;&gt;varchar&lt;/span&gt;(&lt;span style=&quot;color:#33ccff;font-weight:bold;&quot;&gt;255&lt;/span&gt;)                         &lt;span style=&quot;color:#ed864a;&quot;&gt;null comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;会话标题&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;概要&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;is_deleted  &lt;span style=&quot;color:#ed864a;&quot;&gt;tinyint&lt;/span&gt;(&lt;span style=&quot;color:#33ccff;font-weight:bold;&quot;&gt;1&lt;/span&gt;) &lt;span style=&quot;color:#ed864a;&quot;&gt;default &lt;/span&gt;&lt;span style=&quot;color:#33ccff;font-weight:bold;&quot;&gt;0                 &lt;/span&gt;&lt;span style=&quot;color:#ed864a;&quot;&gt;null comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;逻辑删除标记&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;created_at  &lt;span style=&quot;color:#ed864a;&quot;&gt;datetime   default CURRENT_TIMESTAMP null comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;创建时间&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;updated_at  &lt;span style=&quot;color:#ed864a;&quot;&gt;datetime   default CURRENT_TIMESTAMP null on update CURRENT_TIMESTAMP comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;更新时间&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;file_id     &lt;span style=&quot;color:#ed864a;&quot;&gt;int                                  null comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;参考文件&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;id&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color:#ed864a;&quot;&gt;constraint &lt;/span&gt;fk_dialogue_model&lt;br&gt;        &lt;span style=&quot;color:#ed864a;&quot;&gt;foreign key &lt;/span&gt;(model_id) &lt;span style=&quot;color:#ed864a;&quot;&gt;references &lt;/span&gt;t_model (model_id)&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color:#ed864a;&quot;&gt;constraint &lt;/span&gt;fk_dialogue_user&lt;br&gt;        &lt;span style=&quot;color:#ed864a;&quot;&gt;foreign key &lt;/span&gt;(user_id) &lt;span style=&quot;color:#ed864a;&quot;&gt;references &lt;/span&gt;t_user (user_id)&lt;br&gt;)&lt;br&gt;    &lt;span style=&quot;color:#ed864a;&quot;&gt;comment &lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#54b33e;font-family:&#39;Courier New&#39;,monospace;&quot;&gt;用户会话表&lt;/span&gt;&lt;span style=&quot;color:#54b33e;&quot;&gt;&#39;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#ed864a;font-weight:bold;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="390" width="560" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;模型对话&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="400" y="784" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;唯一标识id&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="200" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-3" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="784" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;智能体id&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="210" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-5" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=-0.008;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;对话标题&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="370" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;对话状态&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="470" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;删除标记&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="550" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-9" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;修改时间&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="600" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-11" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.343;entryY=0.009;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;用户id&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="280" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-13" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-14" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.611;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-15" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.916;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-16" edge="1" parent="1" source="S5sgPdCFYCkhcGIh4jas-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="S5sgPdCFYCkhcGIh4jas-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sgPdCFYCkhcGIh4jas-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;创建时间&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="610" y="705" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
