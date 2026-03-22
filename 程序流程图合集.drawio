@@ -725,8 +725,18 @@
         <mxCell id="5sQa36kx4ivZqVxxp3TJ-31" edge="1" parent="1" source="5sQa36kx4ivZqVxxp3TJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5sQa36kx4ivZqVxxp3TJ-30" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5sQa36kx4ivZqVxxp3TJ-35" connectable="0" parent="5sQa36kx4ivZqVxxp3TJ-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="Y" vertex="1">
+          <mxGeometry relative="1" x="-0.0281" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5sQa36kx4ivZqVxxp3TJ-33" edge="1" parent="1" source="5sQa36kx4ivZqVxxp3TJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5sQa36kx4ivZqVxxp3TJ-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5sQa36kx4ivZqVxxp3TJ-36" connectable="0" parent="5sQa36kx4ivZqVxxp3TJ-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="N" vertex="1">
+          <mxGeometry relative="1" x="-0.2204" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5sQa36kx4ivZqVxxp3TJ-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;是否上传文件&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="133.76" x="168.12" y="810" as="geometry" />
