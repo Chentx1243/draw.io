@@ -678,8 +678,28 @@
         <mxCell id="iXHn253ZqQnDE0q3e4f3-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;开始&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="200" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-19" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iXHn253ZqQnDE0q3e4f3-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iXHn253ZqQnDE0q3e4f3-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;发起对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="200" y="490" as="geometry" />
+          <mxGeometry height="30" width="70" x="200" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-20" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="iXHn253ZqQnDE0q3e4f3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-21" connectable="0" parent="iXHn253ZqQnDE0q3e4f3-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" value="N" vertex="1">
+          <mxGeometry relative="1" x="-0.1411" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-26" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iXHn253ZqQnDE0q3e4f3-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;具备模型权限&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="133.76" x="168.12" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;携带dialogueId&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="133.76" x="168.12" y="589" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
