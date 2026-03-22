@@ -797,6 +797,21 @@
         <mxCell id="3Co1Zo3HBA4sykDp8bzY-11" edge="1" parent="1" source="3Co1Zo3HBA4sykDp8bzY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.058;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.944;exitY=0.465;exitDx=0;exitDy=0;exitPerimeter=0;" target="3Co1Zo3HBA4sykDp8bzY-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3Co1Zo3HBA4sykDp8bzY-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;元信息&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="3Co1Zo3HBA4sykDp8bzY-13" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="48" width="77" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="3Co1Zo3HBA4sykDp8bzY-14" parent="3Co1Zo3HBA4sykDp8bzY-13" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=宋体;" value="" vertex="1">
+          <mxGeometry height="40" width="70" x="7" as="geometry" />
+        </mxCell>
+        <mxCell id="3Co1Zo3HBA4sykDp8bzY-15" parent="3Co1Zo3HBA4sykDp8bzY-13" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=宋体;" value="" vertex="1">
+          <mxGeometry height="40" width="70" x="4" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="3Co1Zo3HBA4sykDp8bzY-16" parent="3Co1Zo3HBA4sykDp8bzY-13" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=宋体;" value="向量信息" vertex="1">
+          <mxGeometry height="40" width="70" y="8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
