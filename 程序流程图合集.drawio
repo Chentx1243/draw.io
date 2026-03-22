@@ -1515,7 +1515,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="09SWjHSrAEcBOAXcQ-Xp-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;模型id&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="189" y="544" as="geometry" />
+          <mxGeometry height="40" width="80" x="210" y="530" as="geometry" />
         </mxCell>
         <mxCell id="09SWjHSrAEcBOAXcQ-Xp-14" edge="1" parent="1" source="09SWjHSrAEcBOAXcQ-Xp-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
           <mxGeometry relative="1" as="geometry">
