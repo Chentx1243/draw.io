@@ -616,7 +616,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xCgIrj_3v7ljbMkcfgRb" name="第 5 页">
-    <mxGraphModel dx="1335" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="668" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -672,8 +672,14 @@
         <mxCell id="iXHn253ZqQnDE0q3e4f3-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;结束&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="652" y="180" as="geometry" />
         </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-17" edge="1" parent="1" source="iXHn253ZqQnDE0q3e4f3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iXHn253ZqQnDE0q3e4f3-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iXHn253ZqQnDE0q3e4f3-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;开始&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="200" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="iXHn253ZqQnDE0q3e4f3-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;发起对话&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="200" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
