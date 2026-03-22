@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4" pages="20">
   <diagram name="第 1 页" id="ci4YbdX367tZtO9cv5-i">
-    <mxGraphModel dx="742" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aylo9rQ2wpQ78IT-YiPl" name="第 2 页">
-    <mxGraphModel dx="1023" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="1117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,27 +138,32 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9CodpCd-jBbzwhzlFbx-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;构建JWT&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="305.88" y="535" as="geometry" />
+          <mxGeometry height="30" width="70" x="305.88" y="536" as="geometry" />
         </mxCell>
-        <mxCell id="j9CodpCd-jBbzwhzlFbx-31" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-30" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-31" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340.8800000000001" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j9CodpCd-jBbzwhzlFbx-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;前端解析JWT&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="305.88" y="449" as="geometry" />
+          <mxGeometry height="30" width="70" x="305.88" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="j9CodpCd-jBbzwhzlFbx-34" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-33" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-34" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j9CodpCd-jBbzwhzlFbx-33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.76" y="365" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j9CodpCd-jBbzwhzlFbx-35" connectable="0" parent="j9CodpCd-jBbzwhzlFbx-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体&quot;&gt;Y&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.5749" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j9CodpCd-jBbzwhzlFbx-39" edge="1" parent="1" source="j9CodpCd-jBbzwhzlFbx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j9CodpCd-jBbzwhzlFbx-37">
+        <mxCell id="j9CodpCd-jBbzwhzlFbx-39" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j9CodpCd-jBbzwhzlFbx-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="341" y="304" />
+              <mxPoint x="341" y="305" />
             </Array>
+            <mxPoint x="340.9000000000001" y="340.0074760765551" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j9CodpCd-jBbzwhzlFbx-40" connectable="0" parent="j9CodpCd-jBbzwhzlFbx-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;宋体&quot;&gt;N&lt;/font&gt;" vertex="1">
@@ -173,10 +178,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9CodpCd-jBbzwhzlFbx-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;渲染后台入口&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="454" y="349" as="geometry" />
+          <mxGeometry height="30" width="70" x="454" y="350" as="geometry" />
         </mxCell>
         <mxCell id="j9CodpCd-jBbzwhzlFbx-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;结束&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="454" y="289" as="geometry" />
+          <mxGeometry height="30" width="70" x="454" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
