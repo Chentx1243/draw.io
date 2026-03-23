@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="7mgjeoE56qrXeyOuwNgH">
-    <mxGraphModel dx="1552" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1245" dy="269" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="te-pCdSTu6B9r7Q9jq96-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="api_key" vertex="1">
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="模型秘钥" vertex="1">
           <mxGeometry height="33.34" width="50" x="580" y="473.33" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;rotation=50;" value="可用&lt;div&gt;模型&lt;/div&gt;" vertex="1">
@@ -136,6 +136,24 @@
         <mxCell id="te-pCdSTu6B9r7Q9jq96-43" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="M" vertex="1">
           <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;rotation=-80;" value="可见性" vertex="1">
+          <mxGeometry height="33.34" width="50" x="230" y="473.33" as="geometry" />
+        </mxCell>
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;rotation=-45;" value="可调用性" vertex="1">
+          <mxGeometry height="33.34" width="50" x="260" y="426.66" as="geometry" />
+        </mxCell>
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-48" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="te-pCdSTu6B9r7Q9jq96-44" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="473.83" as="sourcePoint" />
+            <mxPoint x="420" y="412.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-50" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="te-pCdSTu6B9r7Q9jq96-45" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408" y="580" as="sourcePoint" />
+            <mxPoint x="488" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
