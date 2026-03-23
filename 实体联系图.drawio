@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="7mgjeoE56qrXeyOuwNgH">
-    <mxGraphModel dx="2437" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1852" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,10 +182,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="知识库" vertex="1">
-          <mxGeometry height="40" width="80" x="172" y="130" as="geometry" />
+          <mxGeometry height="40" width="80" x="172" y="147" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-58" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="创建" vertex="1">
-          <mxGeometry height="60" width="44" x="190" y="220" as="geometry" />
+          <mxGeometry height="60" width="44" x="190" y="240" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-59" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="te-pCdSTu6B9r7Q9jq96-58" value="">
           <mxGeometry relative="1" as="geometry">
@@ -235,10 +235,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="知识" vertex="1">
-          <mxGeometry height="40" width="80" x="-50" y="130" as="geometry" />
+          <mxGeometry height="40" width="80" x="-50" y="147" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-73" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;rotation=-45;" value="上传" vertex="1">
-          <mxGeometry height="60" width="44" x="70" y="240" as="geometry" />
+          <mxGeometry height="60" width="44" x="62" y="240" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-74" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="4zyQEVl791YRH93J_TDV-1" value="">
           <mxGeometry relative="1" as="geometry">
@@ -263,12 +263,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-78" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="拥有" vertex="1">
-          <mxGeometry height="40" width="68" x="70" y="130" as="geometry" />
+          <mxGeometry height="40" width="68" x="70" y="147" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-79" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="te-pCdSTu6B9r7Q9jq96-57" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="210" as="sourcePoint" />
-            <mxPoint x="209" y="270" as="targetPoint" />
+            <mxPoint x="150" y="227" as="sourcePoint" />
+            <mxPoint x="209" y="287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-80" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-79" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="1" vertex="1">
@@ -278,14 +278,17 @@
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-81" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="te-pCdSTu6B9r7Q9jq96-78" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="70" as="sourcePoint" />
-            <mxPoint x="179" y="130" as="targetPoint" />
+            <mxPoint x="120" y="87" as="sourcePoint" />
+            <mxPoint x="179" y="147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-82" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="N" vertex="1">
           <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
             <mxPoint x="-2" y="2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="智能体" vertex="1">
+          <mxGeometry height="40" width="80" x="-80" y="351" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
