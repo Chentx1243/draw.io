@@ -122,7 +122,7 @@
             <mxPoint x="462" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="te-pCdSTu6B9r7Q9jq96-41" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="1" vertex="1">
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-41" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="N" vertex="1">
           <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -133,7 +133,7 @@
             <mxPoint x="452" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="te-pCdSTu6B9r7Q9jq96-43" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="1" vertex="1">
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-43" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="M" vertex="1">
           <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
