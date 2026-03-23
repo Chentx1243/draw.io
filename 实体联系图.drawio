@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="7mgjeoE56qrXeyOuwNgH">
-    <mxGraphModel dx="1180" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,7 +290,7 @@
         <mxCell id="te-pCdSTu6B9r7Q9jq96-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;" value="智能体" vertex="1">
           <mxGeometry height="40" width="80" x="-90" y="351" as="geometry" />
         </mxCell>
-        <mxCell id="te-pCdSTu6B9r7Q9jq96-86" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;rotation=0;" value="创建" vertex="1">
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-86" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=11;rotation=0;" value="对话" vertex="1">
           <mxGeometry height="40" width="68" x="50" y="351" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-87" edge="1" parent="1" source="4zyQEVl791YRH93J_TDV-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="te-pCdSTu6B9r7Q9jq96-86" value="">
@@ -300,6 +300,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-88" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-87" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="1" vertex="1">
+          <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
+            <mxPoint x="-1" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-89" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="te-pCdSTu6B9r7Q9jq96-83" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134" y="410" as="sourcePoint" />
+            <mxPoint x="80" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-90" connectable="0" parent="te-pCdSTu6B9r7Q9jq96-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=11;" value="1" vertex="1">
           <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
             <mxPoint x="-1" y="-2" as="offset" />
           </mxGeometry>
