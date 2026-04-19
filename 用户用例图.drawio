@@ -566,7 +566,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E8oqS14D4jv9Z7OavjvL" name="第 4 页">
-    <mxGraphModel dx="562" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -585,7 +585,7 @@
         <mxCell id="LGlEkZBH-zF9ZjpuwtjA-77" edge="1" parent="1" source="LGlEkZBH-zF9ZjpuwtjA-78" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontStyle=1;fontSize=15;fontFamily=宋体;" target="LGlEkZBH-zF9ZjpuwtjA-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGlEkZBH-zF9ZjpuwtjA-78" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=15;fontFamily=宋体;" value="&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;" vertex="1">
+        <mxCell id="LGlEkZBH-zF9ZjpuwtjA-78" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=15;fontFamily=宋体;" value="&lt;font face=&quot;宋体&quot;&gt;普通用户&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="480" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="LGlEkZBH-zF9ZjpuwtjA-79" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;miterlimit=4;fontFamily=宋体;" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span&gt;知识&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;管理&lt;/span&gt;" vertex="1">
