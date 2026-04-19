@@ -777,10 +777,10 @@
           <mxGeometry height="38" width="63.33" x="475.00000000000006" y="550" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;输入账号&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="83.33" x="621.33" y="421" as="geometry" />
+          <mxGeometry height="30" width="83.33" x="613.33" y="421" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;输入密码&lt;/font&gt;" vertex="1">
-          <mxGeometry height="26" width="76.67" x="624.6600000000001" y="465" as="geometry" />
+          <mxGeometry height="26" width="76.67" x="616.6600000000001" y="465" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;模型供应商管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="44" width="73.33" x="470.00000000000006" y="595" as="geometry" />
@@ -794,7 +794,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--17" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;新增供应商/修改供应商/删除供应商&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="36" width="233.8" x="624.66" y="500" as="geometry" />
+          <mxGeometry height="36" width="233.8" x="616.66" y="500" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--18" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;模型管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="42" width="70" x="471.6650000000001" y="645" as="geometry" />
@@ -808,7 +808,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--21" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;新增模型/修改模型/删除模型&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="27" width="178.5" x="627.08" y="586" as="geometry" />
+          <mxGeometry height="27" width="178.5" x="619.08" y="586" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;用户管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="42" width="70" x="471.6650000000001" y="695" as="geometry" />
@@ -822,7 +822,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--25" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;新增用户/修改用户/删除用户&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="180" x="625.58" y="691" as="geometry" />
+          <mxGeometry height="30" width="180" x="617.58" y="691" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--26" edge="1" parent="1" source="Y-4EnhrzMnzfZrLAB14--28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=宋体;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Y-4EnhrzMnzfZrLAB14--22">
           <mxGeometry relative="1" as="geometry" />
@@ -833,7 +833,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;分组管理&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="83" x="626.33" y="731" as="geometry" />
+          <mxGeometry height="30" width="83" x="618.33" y="731" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--29" edge="1" parent="1" source="Y-4EnhrzMnzfZrLAB14--31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=宋体;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Y-4EnhrzMnzfZrLAB14--14">
           <mxGeometry relative="1" as="geometry" />
@@ -844,7 +844,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;配置供应商分组秘钥&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="29" width="167" x="626" y="543.5" as="geometry" />
+          <mxGeometry height="29" width="167" x="618" y="543.5" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--32" edge="1" parent="1" source="Y-4EnhrzMnzfZrLAB14--36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.899;entryY=0.745;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=宋体;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Y-4EnhrzMnzfZrLAB14--18">
           <mxGeometry relative="1" as="geometry">
@@ -865,7 +865,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;配置模型可用分组&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="136" x="626" y="642" as="geometry" />
+          <mxGeometry height="30" width="136" x="618" y="642" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--37" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;智能体&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span&gt;管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="42" width="70" x="471.6650000000001" y="755" as="geometry" />
@@ -879,7 +879,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--40" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;智能体新增/修改/删除&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="136" x="626.33" y="781" as="geometry" />
+          <mxGeometry height="30" width="136" x="618.33" y="781" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--41" edge="1" parent="1" source="Y-4EnhrzMnzfZrLAB14--45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=宋体;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Y-4EnhrzMnzfZrLAB14--37">
           <mxGeometry relative="1" as="geometry" />
@@ -898,7 +898,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--45" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;智能体权限配置&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="136" x="626.58" y="840" as="geometry" />
+          <mxGeometry height="30" width="136" x="618.58" y="840" as="geometry" />
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--46" edge="1" parent="1" source="Y-4EnhrzMnzfZrLAB14--48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;fontFamily=宋体;fontSize=13;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Y-4EnhrzMnzfZrLAB14--37">
           <mxGeometry relative="1" as="geometry" />
@@ -909,7 +909,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-4EnhrzMnzfZrLAB14--48" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="&lt;font&gt;&lt;span&gt;智能体上架/下架&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="136" x="624.66" y="881" as="geometry" />
+          <mxGeometry height="30" width="136" x="616.66" y="881" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
