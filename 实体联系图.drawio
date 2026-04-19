@@ -57,7 +57,7 @@
         <mxCell id="te-pCdSTu6B9r7Q9jq96-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;rotation=-50;" value="发起" vertex="1">
           <mxGeometry height="40" width="68" x="58" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="te-pCdSTu6B9r7Q9jq96-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="普通对话" vertex="1">
+        <mxCell id="te-pCdSTu6B9r7Q9jq96-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="对话" vertex="1">
           <mxGeometry height="40" width="80" x="-90" y="580" as="geometry" />
         </mxCell>
         <mxCell id="te-pCdSTu6B9r7Q9jq96-23" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontFamily=宋体;" target="4zyQEVl791YRH93J_TDV-1" value="">
@@ -340,7 +340,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="普通对话" vertex="1">
+        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="智能体对话" vertex="1">
           <mxGeometry height="40" width="80" x="-220" y="580" as="geometry" />
         </mxCell>
         <mxCell id="G7ZoHkll5Hq08ekzD0Hw-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;rotation=30;" value="产生" vertex="1">
