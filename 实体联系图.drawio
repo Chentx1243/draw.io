@@ -340,6 +340,34 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="普通对话" vertex="1">
+          <mxGeometry height="40" width="80" x="-220" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;rotation=30;" value="产生" vertex="1">
+          <mxGeometry height="60" width="44" x="-150" y="459.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-4" edge="1" parent="1" source="te-pCdSTu6B9r7Q9jq96-83" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontFamily=宋体;" target="G7ZoHkll5Hq08ekzD0Hw-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="410" as="sourcePoint" />
+            <mxPoint x="-90" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-5" connectable="0" parent="G7ZoHkll5Hq08ekzD0Hw-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=13;" value="1" vertex="1">
+          <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-6" edge="1" parent="1" source="G7ZoHkll5Hq08ekzD0Hw-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontFamily=宋体;" target="G7ZoHkll5Hq08ekzD0Hw-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="500" as="sourcePoint" />
+            <mxPoint x="-210" y="569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7ZoHkll5Hq08ekzD0Hw-7" connectable="0" parent="G7ZoHkll5Hq08ekzD0Hw-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=13;" value="1" vertex="1">
+          <mxGeometry relative="1" x="0.1213" y="2" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
