@@ -194,8 +194,8 @@
         <mxCell id="gXRf4z14uPvk6BAmqC7--1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;fontFamily=宋体;" value="" vertex="1">
           <mxGeometry height="50" width="30" x="161" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="gXRf4z14uPvk6BAmqC7--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" value="&lt;font&gt;用户&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="50" x="150" y="160" as="geometry" />
+        <mxCell id="gXRf4z14uPvk6BAmqC7--5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontFamily=宋体;" value="&lt;font&gt;普通用户&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="145" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gXRf4z14uPvk6BAmqC7--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="后端服务" vertex="1">
           <mxGeometry height="30" width="54" x="356" y="160" as="geometry" />
