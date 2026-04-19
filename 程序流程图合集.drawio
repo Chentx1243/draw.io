@@ -198,16 +198,16 @@
           <mxGeometry height="30" width="50" x="150" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gXRf4z14uPvk6BAmqC7--6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="后端服务" vertex="1">
-          <mxGeometry height="30" width="50" x="356" y="160" as="geometry" />
+          <mxGeometry height="30" width="54" x="356" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gXRf4z14uPvk6BAmqC7--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="数据库" vertex="1">
           <mxGeometry height="30" width="50" x="561" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gXRf4z14uPvk6BAmqC7--8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="模型服务" vertex="1">
-          <mxGeometry height="30" width="50" x="459" y="160" as="geometry" />
+          <mxGeometry height="30" width="61" x="453.5" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gXRf4z14uPvk6BAmqC7--9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=13;" value="用户界面" vertex="1">
-          <mxGeometry height="30" width="50" x="253" y="160" as="geometry" />
+          <mxGeometry height="30" width="57" x="249.5" y="160" as="geometry" />
         </mxCell>
         <mxCell id="gXRf4z14uPvk6BAmqC7--14" edge="1" parent="1" source="gXRf4z14uPvk6BAmqC7--20" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontFamily=宋体;" target="gXRf4z14uPvk6BAmqC7--5" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
