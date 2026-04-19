@@ -1040,25 +1040,25 @@
           <mxGeometry height="70" width="20" x="1110" y="1392" as="geometry" />
         </mxCell>
         <mxCell id="LYRIA8hmD-CLFCnvrJhf-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font&gt;模型选择&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="969" y="1492" as="geometry" />
+          <mxGeometry height="70" width="20" x="969" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="LYRIA8hmD-CLFCnvrJhf-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font&gt;模型切换&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="999" y="1492" as="geometry" />
+          <mxGeometry height="70" width="20" x="999" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="LYRIA8hmD-CLFCnvrJhf-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font&gt;新增知识库&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="1053" y="1492" as="geometry" />
+          <mxGeometry height="70" width="20" x="1053" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="LYRIA8hmD-CLFCnvrJhf-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font&gt;上传知识&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="1083" y="1492" as="geometry" />
+          <mxGeometry height="70" width="20" x="1083" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="LYRIA8hmD-CLFCnvrJhf-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&lt;font&gt;分组管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="788" y="1492" as="geometry" />
+          <mxGeometry height="70" width="20" x="788" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="LYRIA8hmD-CLFCnvrJhf-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;font&gt;&lt;span&gt;秘钥管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="703" y="1492" as="geometry" />
+          <mxGeometry height="70" width="20" x="703" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="LYRIA8hmD-CLFCnvrJhf-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;font&gt;&lt;span&gt;上下架管理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="20" x="746" y="1492" as="geometry" />
+          <mxGeometry height="70" width="20" x="746" y="1510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
