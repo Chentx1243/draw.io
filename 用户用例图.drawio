@@ -915,7 +915,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Dd9U0e5c2FE57HVuidx-" name="第 6 页">
-    <mxGraphModel dx="819" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="590" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -951,6 +951,9 @@
         </mxCell>
         <mxCell id="TLA0_RVGHGG5PAbmnxlw-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;fontSize=10;miterlimit=4;fontFamily=宋体;" value="&lt;font&gt;&lt;span&gt;&lt;span&gt;登录注册&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="66.67" x="560" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="4aA7fMAmGJZDF-8iiQ8C-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=0;fontSize=10;fontFamily=宋体;" value="&lt;font&gt;开发者用户&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="810" y="645" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
